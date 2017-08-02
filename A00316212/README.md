@@ -17,4 +17,4 @@ Corta descripcion de lo ralizado en el taller.
 
 ## Referencias
 
-Referencias empleadas para la solucion de las preguntas.
+https://github.com/ICESI/so-commands/tree/master/centos7
