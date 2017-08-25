@@ -10,10 +10,20 @@ Corta descripcion de lo ralizado en el taller.
 ## Soluciones
 
 ### 1.
+
+| Directorio   | Archivo ejemplo | Descripción del contenido del directorio  |
+|------|------|------|
+| a directory | an example file | an awesome description |
+
+
 ### 2.
+
+ Comando   | Usuario | Descripción   |
+|------|------|------|
+| $ an awesome command | who call it | an awesome description |
+
 ### 3.
-### 4.
-### 5.
+
 
 ## Referencias
 
