@@ -5,7 +5,7 @@
 
 ## Descripción
 
-Corta descripcion de lo ralizado en el taller.
+Busca introducirnos al mundo de Linux y tratar de ir familiarizando y sobre todo conociendo las funciones y tareas que se pueden realizar mediante este sistema operativo. 
 
 ## Soluciones
 
@@ -56,6 +56,7 @@ Para crear la variable utilizamos el comando export NOMBRE=VALOR. En mi caso hic
 
 export VARIABLEOPERATIVOS=CENTOSLIFE
 
+![GitHub Logo2](Variable.PNG)
 
 
 sed '$ a export nombreVariable=valor' /etc/profile  Con este comando la hacemos permanente.
@@ -66,5 +67,6 @@ sed '$ a export nombreVariable=valor' /etc/profile  Con este comando la hacemos 
 ## Referencias
 
 http://docencia.udea.edu.co/cci/linux/dia4/directorio.htm
+
 https://www.enlinux.org/comandos-basicos-en-gnulinux-centos/
 
